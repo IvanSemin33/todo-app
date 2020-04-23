@@ -10,7 +10,6 @@
 
 ## installation
 
-Clone repository
 ```
 git clone https://github.com/IvanSemin33/todo-app.git
 cd todo-app
