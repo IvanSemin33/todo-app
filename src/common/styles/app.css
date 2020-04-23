@@ -1,5 +1,6 @@
 .todo-app {
   min-height: 100vh;
+  margin: 0 !important;
 }
 
 .header {
