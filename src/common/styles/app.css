@@ -1,0 +1,11 @@
+.todo-app {
+  min-height: 100vh;
+}
+
+.header {
+  background-color: #f5f5f5;
+}
+
+#header-title {
+  padding: 0 15px;
+}
