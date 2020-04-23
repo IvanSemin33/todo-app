@@ -1,4 +1,11 @@
 .todo-list {
-  height: 650px;
+  height: 85vh;
   overflow: auto;
+}
+
+@media (max-width: 500px) {
+  .todo-list {
+    height: 75vh;
+    overflow: auto;
+  }
 }

@@ -9,3 +9,14 @@
 #header-title {
   padding: 0 15px;
 }
+
+#paper {
+  max-height: 100vh;
+  min-width: 30%;
+}
+
+@media (max-width: 500px) {
+  .mb_hidden {
+    display: contents;
+  }
+}
