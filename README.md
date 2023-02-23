@@ -2,9 +2,9 @@
 
 ## Stack
 ### :electron: React
-### ⚛️Redux
-### 🔷Material-UI
-### 🔥Firebase
+### ⚛️ Redux
+### 🔷 Material-UI
+### 🔥 Firebase
 
 ## Installation
 
