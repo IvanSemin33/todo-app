@@ -1,4 +1,4 @@
-# todo application
+# Todo App
 
 ## Stack
 ### :electron: React
