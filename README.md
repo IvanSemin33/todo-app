@@ -1,14 +1,12 @@
 # todo application
 
-## [demo](https://todo-app-3000.web.app/)
-
-## stack
+## Stack
 ### :electron: React
 ### ⚛️Redux
 ### 🔷Material-UI
 ### 🔥Firebase
 
-## installation
+## Installation
 
 ```
 git clone https://github.com/IvanSemin33/todo-app.git
@@ -17,7 +15,7 @@ npm install
 npm start
 ```
 
-## available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
@@ -33,7 +31,7 @@ Launches the test runner in the interactive watch mode.<br>
 
 Builds the app for production to the `build` folder.<br>
 
-## features
+## Features
 
 * Add item
 * Check items
@@ -43,7 +41,7 @@ Builds the app for production to the `build` folder.<br>
 * All data store in Web Storage(localStorage)
 * Mobile
 
-## screenshots
+## Screenshots
 
 ### Todo list with items
 ![Alt text](/screenshots/1.png)
